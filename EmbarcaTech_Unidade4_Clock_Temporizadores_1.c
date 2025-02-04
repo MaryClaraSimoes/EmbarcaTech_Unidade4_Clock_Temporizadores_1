@@ -1,4 +1,4 @@
-//Por: Maria Clara Simoes de Jesus
+//Maria Clara Simoes de Jesus
 #include <stdio.h>
 #include "pico/stdlib.h" // Biblioteca para uso das funções de entrada e saída padrão
 #include "hardware/timer.h" // Biblioteca para uso dos temporizadores
